@@ -323,13 +323,16 @@ header {
 
 /* Footer */
 .footer {
-  padding-block: 1rem;
+  padding: 1rem;
+
+  display: flex;
+  justify-content: space-between;
+  max-width: var(--container-normal);
+  width: 100%;
+  margin: var(--container-margin);
 }
 
-.footer__description {
-  max-width: var(--container-normal);
-  margin: var(--container-margin);
-  padding-inline: 1rem;
-
-  text-align: center;
+.footer__socials {
+  display: flex;
+  gap: 0.5rem;
 }
