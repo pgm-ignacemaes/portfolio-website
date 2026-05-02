@@ -4,4 +4,4 @@ Welkom op de repository van mijn portfolio website. Dit portfolio was oorspronke
 
 ## Link Portfolio
 
-https://pgm-ignacemaes.github.io/portfolio-website/
+https://ignace-maes.netlify.app/
